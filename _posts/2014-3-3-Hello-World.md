@@ -2,6 +2,10 @@
 layout: post
 title: You're up and running!
 published: true
+
+layout: post2
+title: You're up and running!2
+published: false
 ---
 ### test
 
